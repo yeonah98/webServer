@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="gray-background">
-     
+      <h2>
+        Photo Diary
+      </h2>
     </div>
   );
 }
